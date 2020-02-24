@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(91, 179, 179);
+    
+}
+#title{
+    display: flex;
+    justify-content: center;
+    font-family: "Apple chancery";
+    color: rgb(155, 29, 138);
+    font-size: 5rem;
+    font-weight: 10px;
+}
+h3{
+    font-family: "Apple chancery";
+    color: rgb(155, 29, 138);
+    text-align: center;
+}
+.players{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.player1{
+    padding-left: 2rem;
+}
+.player2{
+    padding-left: 2rem;
+}
+footer p{
+    color: ivory;
+    text-align: center;
+    background-color: rgb(48, 73, 73);
+    padding: 2rem 0;
+}
